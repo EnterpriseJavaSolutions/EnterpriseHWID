@@ -3,6 +3,7 @@ Enterprise HWID system for ownership verification.
 
 ## How to use
 I don't know
+https://jitpack.io/#EnterpriseJavaSolutions/EnterpriseHWID/
 
 ## Why?
 Because
