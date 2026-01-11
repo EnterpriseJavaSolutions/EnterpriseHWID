@@ -8,6 +8,14 @@
     <artifactId>EnterpriseHWID</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub EnterpriseJavaSolutions Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/EnterpriseJavaSolutions/EnterpriseHWID</url>
+        </repository>
+    </distributionManagement>
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
