@@ -1,4 +1,6 @@
 # EnterpriseHWID
+![badge](https://jitpack.io/v/EnterpriseJavaSolutions/EnterpriseHWID.svg)
+<br>
 Enterprise HWID system for ownership verification.
 
 ## How to use
