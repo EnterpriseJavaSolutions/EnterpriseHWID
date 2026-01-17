@@ -1,4 +1,4 @@
-package com.github.com.github.EnterpriseJavaSolutions.EnterpriseHWID;
+package com.github.EnterpriseJavaSolutions;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;

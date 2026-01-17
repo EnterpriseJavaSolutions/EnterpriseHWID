@@ -1,4 +1,4 @@
-import com.github.com.github.EnterpriseJavaSolutions.EnterpriseHWID.EnterpriseHWID;
+import com.github.EnterpriseJavaSolutions.EnterpriseHWID;
 
 public class TestEnterpriseHWID {
     public static void main(String[] args) {
